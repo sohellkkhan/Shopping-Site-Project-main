@@ -27,8 +27,6 @@ The payment gateway page allows users to enter their card details, including car
 
 ## Installation
 To run this project, simply clone the repository and open the index.html file in your browser.
-
-- git clone https://github.com/pradip224/Shopping-Site-Project
 - cd Shopping-Site-Project
 - open index.html
 
